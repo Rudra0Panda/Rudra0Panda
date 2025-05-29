@@ -26,7 +26,10 @@
 - 🔬 Line Follower Robot using IR Sensor Array (RLS-08)
 - 📡 Audio Spectrum Using Arduino
 - 📈 High-speed ADC sampling & waveform generation using Timer interrupts
-- 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra0Panda&layout=compact)
+
+
 ## 📸 Photography Portfolio
 I enjoy capturing candid moments and nature landscapes. Check out my work on [Instagram](https://www.instagram.com/r___d_r) 
 
