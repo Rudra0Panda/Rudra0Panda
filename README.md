@@ -3,24 +3,18 @@
 🎓 B.Tech in Electronics and Telecommunication Engineering  
 🏫 Veer Surendra Sai University of Technology, Burla  
 📍 From Pattamundai, Kendrapara, Odisha  
-🔧 Aspiring Embedded Systems Engineer | 📷 Photography Enthusiast | 🎨 Graphic Design Explorer
+🔧 Aspiring Embedded Systems Engineer | 📷 Photography Enthusiast 
 
 ---
 
 ## 🔭 What I'm Working On
-- 🚀 Building real-time embedded systems using Arduino and microcontrollers
-- ⚡ Developing an optimized PC-based oscilloscope Using STM32
+- 🚀 Building real-time embedded systems using microcontrollers
 - 📷 Capturing life through the lens in my free time
-- 🎨 Exploring graphic design as a creative outlet
-- 🖥️ Creating some open-source desktop apps using **Tauri** 🔧✨
 - Building Some Circuits ⚡   
 
 ## 🛠️ Tech Stack & Tools
 - **Languages:** C/C++, Python,Javascript,Embedded C  
-- **Platforms:** Arduino, AVR, ESP32 ,**Linux** , Kicad
-- **Tools & IDEs:** VS Code, Arduino IDE, PlatformIO, Android Studio  
-- **Design:** Photoshop
-- **Video Editing:** Premier Pro , After Effects 
+- **Platforms:** Arduino, AVR, ESP32 ,**Linux** , Kicad  
 
 ## 📚 Academic Projects
 - 🔬 Line Follower Robot using IR Sensor Array (RLS-08)
