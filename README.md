@@ -1,28 +1,8 @@
 # 👋 Hi there, I'm Rudra Narayan Panda!
 
-🎓 B.Tech in Electronics and Telecommunication Engineering  
-🏫 Veer Surendra Sai University of Technology, Burla  
-📍 From Pattamundai, Kendrapara, Odisha  
-🔧 Aspiring Embedded Systems Engineer | 📷 Photography Enthusiast 
-
----
-
-## 🔭 What I'm Working On
-- 🚀 Building real-time embedded systems using microcontrollers
-- 📷 Capturing life through the lens in my free time
-- Building Some Circuits ⚡   
-
 ## 🛠️ Tech Stack & Tools
 - **Languages:** C/C++, Python,Javascript,Embedded C  
 - **Platforms:** Arduino, AVR, ESP32 ,**Linux** , Kicad  
-
-## 📚 Academic Projects
-- 🔬 Line Follower Robot using IR Sensor Array (RLS-08)
-- 📡 Audio Spectrum Using Arduino
-- 📈 High-speed ADC sampling & waveform generation using Timer interrupts
-
-
-
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Rudra0Panda&layout=donut&langs_count=6&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Rudra0Panda&layout=donut&langs_count=6&hide_values=true&theme=dark)
 
